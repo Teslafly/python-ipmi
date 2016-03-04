@@ -11,7 +11,7 @@ Features
 Requirements
 ------------
 
-You need an either the `ipmitool`_ for accessing RCMP interface or a
+You need an the `ipmitool`_ for accessing RCMP interface or a
 `Total Phase`_ Aardvark for communication over the IPMB interface.
 
 Example
